@@ -1,0 +1,1 @@
+Several experiments were undertaken with human subjects interacting via networked computers. The aim of the study is to gain insight on how people update their beliefs when given feedback on their neighbors' beliefs.
